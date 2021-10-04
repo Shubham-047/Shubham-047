@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Tumblr app
 
-- 🌱 I’m currently learning **Mearn Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
