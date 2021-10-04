@@ -60,7 +60,11 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shubham-kumar-047/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-
 </p>
 
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Shubham-047">
+</a>
+<a href="https://github.com/Shubham-047?tab=followers"><img src="https://img.shields.io/github/followers/Shubham-047?label=Followers&style=social" alt="GitHub Badge"></a>
