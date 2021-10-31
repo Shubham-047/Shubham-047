@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Tumblr app
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
