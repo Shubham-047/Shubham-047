@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as Software Engineer at **Sakha Global**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
